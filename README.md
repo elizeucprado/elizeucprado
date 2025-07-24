@@ -1,6 +1,6 @@
 ## 🖖 Saudações, Jedi! Seja bem-vindo(a) ao meu perfil!
 
-![Banner](./assets/banner-elizeu.png)
+![Banner](./assets/BannerGitHub.png)
 
 ### Meu nome é Elizeu Corrêa do Prado
 
