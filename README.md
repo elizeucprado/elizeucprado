@@ -29,4 +29,7 @@ Tenho uma visão multidisciplinar sobre tecnologia. Gosto de unir **design**, **
 
 Já participei de diversas competições voltadas à tecnologia e inovação, como a **Olimpíada Brasileira de Robótica (OBR)**, a **First Lego League (FLL)** e o **Grand Prix de Inovação**, o que fortaleceu minha paixão por resolver problemas e trabalhar em equipe com criatividade e estratégia.
 
----
+--- 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizeucp&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizeucp)](https://github.com/anuraghazra/github-readme-stats)--> 
