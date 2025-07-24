@@ -1,5 +1,7 @@
 ## 🖖 Saudações, Jedi! Seja bem-vindo(a) ao meu perfil!
 
+![Banner](./assets/banner-elizeu.png)
+
 ### Meu nome é Elizeu Corrêa do Prado
 
 Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
