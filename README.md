@@ -2,7 +2,7 @@
 
 ![Banner](./assets/BannerGitHub.png)
 
-### Meu nome é Elizeu Corrêa do Prado
+### Meu nome é **Elizeu Corrêa do Prado**
 
 Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
 
@@ -27,7 +27,7 @@ Tenho grande interesse por **desenvolvimento web**, **criação de aplicações*
 ---
 
 
-### Sobre mim
+### 👤 Sobre mim
 
 Tenho uma visão multidisciplinar sobre tecnologia. Gosto de unir **design**, **lógica**, **mecânica** e **expressão artística** em tudo que crio. Também sou fã de **cinematografia** e **música**, áreas que me inspiram constantemente a buscar novas abordagens nos meus projetos.
 
