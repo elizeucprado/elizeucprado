@@ -8,7 +8,6 @@ Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e
 
 Tenho grande interesse por **desenvolvimento web**, **criação de aplicações**, **jogos** e por áreas que se conectam com engenharia, como **mecatrônica**, **robótica**, **elétrica** e **eletrônica**. Acredito que conhecimento técnico, criatividade e curiosidade formam a base para soluções inovadoras.
 
----
 
 ### 💻 Tecnologias que utilizo
 
@@ -16,15 +15,12 @@ Tenho grande interesse por **desenvolvimento web**, **criação de aplicações*
 - **Back-end / Lógica**: C#, C++  
 - **Ferramentas e Plataformas**: Git, GitHub, Unity (para jogos)
 
----
 
 ### 📌 Atualmente
 
 - Estudando desenvolvimento web e boas práticas de programação  
 - Criando projetos pessoais para aprofundar meus conhecimentos  
 - Explorando áreas além da programação, com foco em hardware e automação
-
----
 
 
 ### 👤 Sobre mim
