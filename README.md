@@ -31,5 +31,5 @@ Já participei de diversas competições voltadas à tecnologia e inovação, co
 
 --- 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizeucp&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizeucp&show_icons=true&theme=highcontrast)](https://github.com/elizeucp/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizeucp)](https://github.com/anuraghazra/github-readme-stats)--> 
