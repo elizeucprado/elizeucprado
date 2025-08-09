@@ -31,5 +31,5 @@ Já participei de diversas competições voltadas à tecnologia e inovação, co
 
 --- 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elizeucp&show_icons=true&bg_color=fbeb04&title_color=000000&text_color=000000&icon_color=988710&border_color=000000&border_radius=10)](https://github.com/elizeucp)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizeucp&show_icons=true&bg_color=fbeb04&title_color=000000&text_color=000000&icon_color=988710&border_color=000000&border_radius=10)](https://github.com/elizeucp)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elizeucp&show_icons=true&bg_color=fbeb04&title_color=000000&text_color=000000&icon_color=988710&border_color=000000&border_radius=10&include_all_commits=true&custom_title=Stats)](https://github.com/elizeucp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizeucp&show_icons=true&bg_color=fbeb04&title_color=000000&text_color=000000&icon_color=988710&border_color=000000&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=5&custom_title=Langs)](https://github.com/elizeucp)
