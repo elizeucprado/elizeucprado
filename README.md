@@ -2,7 +2,10 @@
 
 ![Banner](./assets/BannerGitHub.png)
 
-### Meu nome é **Elizeu Corrêa do Prado**
+## 
+
+<img src="./assets/TITLEBAR.png"
+       style="height: auto; width: 75vw;"/>
 
 Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
 
