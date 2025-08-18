@@ -1,6 +1,6 @@
 ## 🖖 Saudações, Jedi! Seja bem-vindo(a) ao meu perfil!
 
-![Banner](./assets/BannerGitHub.png)
+![Banner](./assets/BannerGitHub2.png)
 
 ## 
 
