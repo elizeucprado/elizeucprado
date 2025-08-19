@@ -1,11 +1,19 @@
 ## 🖖 Saudações, Jedi! Seja bem-vindo(a) ao meu perfil!
 
-![Banner](./assets/BannerGitHub2.png)
+<div align="center">
+     <img src="./assets/BannerGitHub2.png"
+       style="height: auto; width: auto;"/>
+</div
+
+---
 
 ## 
-
+>
+<div align="center">
 <img src="./assets/TITLEBAR.png"
        style="height: auto; width: 75vw;"/>
+</div>
+
 
 Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
 
