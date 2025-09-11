@@ -23,7 +23,7 @@ Tenho grande interesse por **desenvolvimento web**, **criação de aplicações*
 ### 💻 Tecnologias que utilizo
 
 - **Front-end**: HTML, CSS, JavaScript  
-- **Back-end / Lógica**: C#, C++, Node.js
+- **Back-end / Lógica**: C#, C++, Node.js, Java
 - **Ferramentas e Plataformas**: Git, GitHub, Unity (para jogos)
 
 
