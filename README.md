@@ -23,7 +23,7 @@ Tenho grande interesse por **desenvolvimento web**, **criação de aplicações*
 ### 💻 Tecnologias que utilizo
 
 - **Front-end**: HTML, CSS, JavaScript  
-- **Back-end / Lógica**: C#, C++, Node.js, Java
+- **Back-end / Lógica**: C#, C++, Node.js, Java, Python
 - **Ferramentas e Plataformas**: Git, GitHub, Unity (para jogos)
 
 
@@ -38,7 +38,7 @@ Tenho grande interesse por **desenvolvimento web**, **criação de aplicações*
 
 Tenho uma visão multidisciplinar sobre tecnologia. Gosto de unir **design**, **lógica**, **mecânica** e **expressão artística** em tudo que crio. Também sou fã de **cinematografia** e **música**, áreas que me inspiram constantemente a buscar novas abordagens nos meus projetos.
 
-Já participei de diversas competições voltadas à tecnologia e inovação, como a **Olimpíada Brasileira de Robótica (OBR)**, a **First Lego League (FLL)** e o **Grand Prix de Inovação**, o que fortaleceu minha paixão por resolver problemas e trabalhar em equipe com criatividade e estratégia.
+Já participei de diversas competições voltadas à engenharia, tecnologia e inovação, como a **Olimpíada Brasileira de Robótica (OBR)**, a **First Lego League (FLL)**, **Grand Prix de Inovação** e a **WorldSkills - Intalações Elétricas**, o que fortaleceu minha paixão por resolver problemas e trabalhar em equipe com criatividade e estratégia.
 
 --- 
 
