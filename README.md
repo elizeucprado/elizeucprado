@@ -11,7 +11,7 @@
 >
 <div align="center">
 <img src="./assets/TITLEBAR.png"
-       style="height: auto; width: 75vw;"/>
+       style="height: auto; width: auto;"/>
 </div>
 
 
