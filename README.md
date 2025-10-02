@@ -1,7 +1,7 @@
 ## 🖖 Saudações, Jedi! Seja bem-vindo(a) ao meu perfil!
 
 <div align="center">
-     <img src="./assets/BannerGitHub2.png"
+     <img src="./assets/BannerGitHub3.png"
        style="height: auto; width: auto;"/>
 </div
 
