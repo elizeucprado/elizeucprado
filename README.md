@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="assets/TITLEBAR.png" alt="TITLEBAR"/>
+  <img src="assets/TITLEBAR.png" alt="TITLEBAR" width="75%"/>
 </p>
 
 Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
