@@ -3,22 +3,18 @@
 <div align="center">
      <img src="./assets/BannerGitHub3.png"
        style="height: auto; width: auto;"/>
-</div
+</div>
 
----
-
-## 
->
 <div align="center">
 <img src="./assets/TITLEBAR.png"
        style="height: auto; width: auto;"/>
 </div>
 
+---
 
 Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
 
 Tenho grande interesse por **desenvolvimento web**, **criação de aplicações**, **jogos** e por áreas que se conectam com engenharia, como **mecatrônica**, **robótica**, **elétrica** e **eletrônica**. Acredito que conhecimento técnico, criatividade e curiosidade formam a base para soluções inovadoras.
-
 
 ### 💻 Tecnologias que utilizo
 
@@ -26,13 +22,11 @@ Tenho grande interesse por **desenvolvimento web**, **criação de aplicações*
 - **Back-end / Lógica**: C#, C++, Node.js, Java, Python
 - **Ferramentas e Plataformas**: Git, GitHub, Unity (para jogos)
 
-
 ### 📌 Atualmente
 
 - Estudando desenvolvimento web e boas práticas de programação  
 - Criando projetos pessoais para aprofundar meus conhecimentos  
 - Explorando áreas além da programação, com foco em hardware e automação
-
 
 ### 👤 Sobre mim
 
