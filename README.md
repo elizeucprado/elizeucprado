@@ -1,7 +1,7 @@
 # 🖖 Greetings, Jedi! Welcome to my profile!
 
 <p align="center">
-  <img src="assets/BannerGitHub3.png" alt="Banner" />
+  <img src="assets/BannerGitHubGIF.gif" alt="Banner" />
 </p>
 
 ---
