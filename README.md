@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="assets/TITLEBAR.png" alt="TITLEBAR" />
+  <img src="assets/TITLEBAR1.png" alt="TITLEBAR" />
 </p>
 
 I am from **Goiânia - GO**, I'm 18 years old and I'm currently studying **Systems Analysis and Development**. I am passionate about technology, inventions and the creative potential the field offers.
