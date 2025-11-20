@@ -1,4 +1,4 @@
-# 🖖 Saudações, Jedi! Seja bem-vindo(a) ao meu perfil!
+# 🖖 Greetings, Jedi! Welcome to my profile!
 
 <p align="center">
   <img src="assets/BannerGitHub3.png" alt="Banner" />
@@ -10,27 +10,27 @@
   <img src="assets/TITLEBAR.png" alt="TITLEBAR" />
 </p>
 
-Sou de **Goiânia - GO**, tenho 18 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, invenções e pelo potencial criativo que a área oferece.
+I am from **Goiânia - GO**, I'm 18 years old and I'm currently studying **Systems Analysis and Development**. I am passionate about technology, inventions and the creative potential the field offers.
 
-Tenho grande interesse por **desenvolvimento web**, **criação de aplicações**, **jogos** e por áreas que se conectam com engenharia, como **mecatrônica**, **robótica**, **elétrica** e **eletrônica**. Acredito que conhecimento técnico, criatividade e curiosidade formam a base para soluções inovadoras.
+I have a strong interest in **web development**, **application creation**, **games**, and in areas connected to engineering such as **mechatronics**, **robotics**, **electrical** and **electronics**. I believe that technical knowledge, creativity and curiosity form the foundation for innovative solutions.
 
-### 💻 Tecnologias que utilizo
+### 💻 Technologies I use
 
 - **Front-end**: HTML, CSS, JavaScript  
-- **Back-end / Lógica**: C#, C++, Node.js, Java, Python  
-- **Ferramentas e Plataformas**: Git, GitHub, Unity (para jogos)
+- **Back-end / Logic**: C#, C++, Node.js, Java, Python  
+- **Tools and Platforms**: Git, GitHub, Unity (for games)
 
-### 📌 Atualmente
+### 📌 Currently
 
-- Estudando desenvolvimento web e boas práticas de programação  
-- Criando projetos pessoais para aprofundar meus conhecimentos  
-- Explorando áreas além da programação, com foco em hardware e automação
+- Studying web development and programming best practices  
+- Building personal projects to deepen my knowledge  
+- Exploring areas beyond programming, focusing on hardware and automation
 
-### 👤 Sobre mim
+### 👤 About me
 
-Tenho uma visão multidisciplinar sobre tecnologia. Gosto de unir **design**, **lógica**, **mecânica** e **expressão artística** em tudo que crio. Também sou fã de **cinematografia** e **música**, áreas que me inspiram constantemente a buscar novas abordagens nos meus projetos.
+I have a multidisciplinary view of technology. I like to combine **design**, **logic**, **mechanics** and **artistic expression** in everything I create. I'm also a fan of **cinematography** and **music**, which constantly inspire me to look for new approaches in my projects.
 
-Já participei de diversas competições voltadas à engenharia, tecnologia e inovação, como a **Olimpíada Brasileira de Robótica (OBR)**, a **First Lego League (FLL)**, **Grand Prix de Inovação** e a **WorldSkills - Instalações Elétricas**, o que fortaleceu minha paixão por resolver problemas e trabalhar em equipe com criatividade e estratégia.
+I have participated in several competitions focused on engineering, technology and innovation, such as the **Brazilian Robotics Olympiad (OBR)**, **First Lego League (FLL)**, **Grand Prix of Innovation** and **WorldSkills - Electrical Installations**, which strengthened my passion for solving problems and working in teams with creativity and strategy.
 
 ---
 
